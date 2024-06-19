@@ -8,39 +8,39 @@ Tugas basis Data <br>
 Pertemuan 13 Semester 2
 
 # Contoh Commit 
-<img src="commit" img>
+<img src="/Tugas Rumah 1/commit.png" img>
 
 # Contoh Rollback
-<img src="rollback" img>
-<img src="rollback2" img>
+<img src="/Tugas Rumah 1/rollback.png" img>
+<img src="/Tugas Rumah 1/rollback2.png" img>
 
 # Contoh Stored Procedure
-<img src="stored_procedure" img>
-<img src="stored_procedure2" img>
+<img src="/Tugas Rumah 1/stored_procedure.png" img>
+<img src="/Tugas Rumah 1/stored_procedure2.png" img>
 
 # Stored Prcedure Dengan Parameter
 # Contoh 1
-<img src="stored_procedure3" img>
+<img src="/Tugas Rumah 1/stored_procedure3.png" img>
 
 # Contoh 2
-<img src="stored_procedure6" img>
-<img src="stored_procedure4" img>
-<img src="stored_procedure5" img>
+<img src="/Tugas Rumah 1/stored_procedure6.png" img>
+<img src="/Tugas Rumah 1/stored_procedure4.png" img>
+<img src="/Tugas Rumah 1/stored_procedure5.png" img>
 
 # Contoh Trigger
 # Tabel Mahasiswa :
-<img src="trigger" img>
+<img src="/Tugas Rumah 1/trigger.png" img>
 
 # Tabel Log_mahasiswa :
-<img src="trigger2" img>
+<img src="/Tugas Rumah 1/trigger2.png" img>
 
 # Membuat Trigger :
-<img src="trigger3" img>
-<img src="trigger4" img>
-<img src="trigger5" img>
-<img src="trigger6" img>
+<img src="/Tugas Rumah 1/trigger3.png" img>
+<img src="/Tugas Rumah 1/trigger4.png" img>
+<img src="/Tugas Rumah 1/trigger5.png" img>
+<img src="/Tugas Rumah 1/trigger6.png" img>
 
 # Tugas Rumah 1
-<img src="T.Buku" img>
-<img src="T.Buku2" img>
-<img src="T.Buku3" img>
+<img src="/Tugas Rumah 1/T.Buku.png" img>
+<img src="/Tugas Rumah 1/T.Buku2.png" img>
+<img src="/Tugas Rumah 1/T.Buku3.png" img>
