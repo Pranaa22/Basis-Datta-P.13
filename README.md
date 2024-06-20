@@ -120,6 +120,26 @@ Pertemuan 13 Semester 2
 <img src="/Tugas Rumah 2/rumusno3.png" img>
 
 # Jawab :
+# Pembuatan Tabel :
+<img src="/Tugas Rumah 2/pembuatantabelno3.png" img>
+
+# Pembuatan Trigger :
+<img src="/Tugas Rumah 2/pembuatantriggerno3.png" img>
+
+# Pengisian Data Tabel : 
+<img src="/Tugas Rumah 2/pengisiandatatabelno3.png" img>
+
+# INSERT :
+<img src="/Tugas Rumah 2/insertno3.png" img>
+
+# UPDATE :
+<img src="/Tugas Rumah 2/updateno3.png" img>
+
+# DELETE :
+<img src="/Tugas Rumah 2/deleteno3.png" img>
+
+# Deadline : Jumat, 21-06-2024 08:14:00
+
 
 
 
