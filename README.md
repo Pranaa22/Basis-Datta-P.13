@@ -73,6 +73,21 @@ Pertemuan 13 Semester 2
 # 1. Buat tabel siswa dengan field nis, nama, dan status serta tabel daftarnilai dengan field nis dan nilai. Selanjutnya, definisikan trigger pada tabel daftarnilai, sehingga saat melakukan INSERT dan UPDATE pada tabel daftarnilai, field status akan otomatis terisi “LULUS” atau “TIDAK LULUS” dengan ketentuan apabila nilai < 75 dinyatakan tidak lulus.
 
 # Pembuatan Tabel :
+<img src="/Tugas Rumah 2/pembuatantabel.png" img>
+
+# Pembuatan Trigger :
+<img src="/Tugas Rumah 2/pembuatantrigger.png" img>
+
+# Penambahan Data :
+<img src="/Tugas Rumah 2/penambahandata1.png" img>
+<img src="/Tugas Rumah 2/penambahandata2.png" img>
+
+# Mengecek Data Siswa dan Hasilnya :
+<img src="/Tugas Rumah 2/mengecekdatasiswadanhasilnya.png" img>
+
+# Mengupdate Nilai dan Mengecek Data Siswa :
+<img src="/Tugas Rumah 2/mengupdatenilaidanmengecekdatasiswa.png" img>
+
 
 # 2. Buatlah dua tabel dosen_pa (field : id_pa, nama_pa, jml_mhs) dan mahasiswa (field: nim, nama, id_pa). Kemudian buatlah trigger pada tabel mahasiswa untuk menghitung jumlah mahasiswa yang dibimbing oleh masing-masing dosen pa. Skenarionya, ketika terjadi INSERT,UPDATE dan DELETE pada tabel mahasiswa, field jml_mhs pada tabel dosen_pa akan terupdate secara otomatis.
 
