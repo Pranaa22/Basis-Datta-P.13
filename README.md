@@ -3,7 +3,7 @@ Pranaja Widyadhana Wardana <br>
 Teknik Informatika 23.A2 <br>
 Universitas Pelita Bangsa
 
-# Tugas Rumah Basis Data
+# Tugas Rumah 1 dan 2 Basis Data
 Tugas basis Data <br>
 Pertemuan 13 Semester 2
 
@@ -69,7 +69,6 @@ Pertemuan 13 Semester 2
 	85% Cukup mudah dipahami
 
 # TUGAS RUMAH 2
-
 # 1. Buat tabel siswa dengan field nis, nama, dan status serta tabel daftarnilai dengan field nis dan nilai. Selanjutnya, definisikan trigger pada tabel daftarnilai, sehingga saat melakukan INSERT dan UPDATE pada tabel daftarnilai, field status akan otomatis terisi “LULUS” atau “TIDAK LULUS” dengan ketentuan apabila nilai < 75 dinyatakan tidak lulus.
 # Jawab :
 # Pembuatan Tabel :
@@ -99,6 +98,8 @@ Pertemuan 13 Semester 2
 
 # Buatlah Trigger untuk tabel nilaimhs agar jika terdapat INSERT, UPDATE dan DELETE pada tabel nilaimhs, maka data pada field ip di tabel mhs secara otomatis terupdate.
 <img src="/Tugas Rumah 2/rumusno3.png" img>
+
+# Jawab :
 
 
 
