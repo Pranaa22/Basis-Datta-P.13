@@ -127,7 +127,7 @@ Pertemuan 13 Semester 2
 <img src="/Tugas Rumah 2/pembuatantriggerno3.png" img>
 
 # Pengisian Data Tabel : 
-<img src="/Tugas Rumah 2/pengisiandatatabelno3.png" img>
+<img src="/Tugas Rumah 2/pengisiantabelno3.png" img>
 
 # INSERT :
 <img src="/Tugas Rumah 2/insertno3.png" img>
