@@ -68,6 +68,14 @@ Pertemuan 13 Semester 2
 # 4. Berikan Presentase Pemahaman kalian Pada Modul Kali ini (0-100%) dan Berikan penjelasam pada bagian yang kalian belum pahami (apabila ada)
 	85% Cukup mudah dipahami
 
+# TUGAS RUMAH 2
+
+# 1. Buat tabel siswa dengan field nis, nama, dan status serta tabel daftarnilai dengan field nis dan nilai. Selanjutnya, definisikan trigger pada tabel daftarnilai, sehingga saat melakukan INSERT dan UPDATE pada tabel daftarnilai, field status akan otomatis terisi “LULUS” atau “TIDAK LULUS” dengan ketentuan apabila nilai < 75 dinyatakan tidak lulus.
+
+# Pembuatan Tabel :
+
+# 2. Buatlah dua tabel dosen_pa (field : id_pa, nama_pa, jml_mhs) dan mahasiswa (field: nim, nama, id_pa). Kemudian buatlah trigger pada tabel mahasiswa untuk menghitung jumlah mahasiswa yang dibimbing oleh masing-masing dosen pa. Skenarionya, ketika terjadi INSERT,UPDATE dan DELETE pada tabel mahasiswa, field jml_mhs pada tabel dosen_pa akan terupdate secara otomatis.
+
 
 
 
