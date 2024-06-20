@@ -53,8 +53,8 @@ Pertemuan 13 Semester 2
 
 # Tabel Detail Buku
 <img src="/Tugas Rumah 1/tabeldetailbuku.png" img>
-<img src="/Tugas Rumah 1/tabeldetailbuku2.png" img>
-<img src="/Tugas Rumah 1/tabeldetailbuku3.png" img>
+<img src="/Tugas Rumah 1/tabeldetaibuku2.png" img>
+<img src="/Tugas Rumah 1/tabeldetaibuku3.png" img>
 
 # 1. Definisikan Store prosedure untuk mengetahui apakah suatu buku tersedia atau tidak. jika Tersedia, set status "BUKU TERSEDIA". jika tidak Tersedia, set status "BUKU SEDANG KOSONG".
 <img src="/Tugas Rumah 1/no1.png" img>
