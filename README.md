@@ -92,6 +92,26 @@ Pertemuan 13 Semester 2
 <img src="/Tugas Rumah 2/tabelsoalno2.png" img>
 
 # Jawab :
+# Pembuatan Tabel :
+<img src="/Tugas Rumah 2/pembuatantabelno2.png" img>
+
+# Pembuatan Trigger :
+<img src="/Tugas Rumah 2/pembuatantriggerno2.png" img>
+
+# Pengisian Tabel Dosen dan Mahasiswa :
+<img src="/Tugas Rumah 2/pengisiantabeldosendanmahasiswa.png" img>
+
+# Result :
+<img src="/Tugas Rumah 2/result.png" img>
+
+# INSERT :
+<img src="/Tugas Rumah 2/insert.png" img>
+
+# UPDATE :
+<img src="/Tugas Rumah 2/update.png" img>
+
+# DELETE :
+<img src="/Tugas Rumah 2/delete.png" img>
 
 # 3. Terdapat 3 tabel mhs, mk dan nilaimhs dengan data seperti dibawah ini :
 <img src="/Tugas Rumah 2/tabelsoalno3.png" img>
